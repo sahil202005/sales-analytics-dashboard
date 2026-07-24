@@ -82,40 +82,6 @@ sales-analytics-dashboard
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/sales-analytics-dashboard.git
-```
-
-Go to the project folder
-
-```bash
-cd sales-analytics-dashboard
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the project
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
-
----
-
 ## 📊 Dashboard Modules
 
 ### CSV Upload
