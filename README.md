@@ -28,7 +28,8 @@ A modern and interactive Sales Analytics Dashboard built with **React.js**, **Ta
 
 ### Dashboard
 
-![Dashboard](Screenshot%20(455).png)(Screenshot%20(457).png)
+![Dashboard](Screenshot%20(455).png)
+![Dashboard](Screenshot%20(457).png)
 
 ### Upload Page
 
