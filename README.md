@@ -34,9 +34,7 @@ A modern and interactive Sales Analytics Dashboard built with **React.js**, **Ta
 
 ![Upload](images/upload.png)
 
-### AI Insights
 
-![AI](images/ai.png)
 
 ---
 
@@ -58,27 +56,7 @@ A modern and interactive Sales Analytics Dashboard built with **React.js**, **Ta
 - Vercel
 
 ### Version Control
-- Git
 - GitHub
-
----
-
-## 📂 Project Structure
-
-```
-sales-analytics-dashboard
-│
-├── public
-├── src
-│   ├── pages
-│   ├── components
-│   ├── App.jsx
-│   ├── main.jsx
-│
-├── package.json
-├── vite.config.js
-├── README.md
-```
 
 ---
 
@@ -96,13 +74,6 @@ Validate uploaded datasets before analysis.
 ### Dashboard
 View sales performance using interactive charts and KPI cards.
 
-### AI Insights
-View predicted revenue, business recommendations, and forecast trends.
-
-### Report Generation
-Generate a downloadable sales report based on the filtered data.
-
----
 
 ## 📈 KPIs
 
