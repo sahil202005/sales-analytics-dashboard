@@ -32,7 +32,7 @@ A modern and interactive Sales Analytics Dashboard built with **React.js**, **Ta
 
 ### Upload Page
 
-![Upload](images/upload.png)
+![Upload](Screenshot%20(452).png)
 
 
 
